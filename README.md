@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://drive.google.com/file/d/1rYByeYe-HX240nlYvH5x9bJmX4mS9wYB/view?usp=sharing)
+Link: https://drive.google.com/file/d/1rYByeYe-HX240nlYvH5x9bJmX4mS9wYB/view?usp=sharing
 
 ## Notes
 
